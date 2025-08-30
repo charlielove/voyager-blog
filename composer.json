@@ -36,7 +36,7 @@
         }
     ],
     "require": {
-        "tcg/voyager": "^1.6.dev",
+        "tcg/voyager": "*",
         "laravel/legacy-factories": "^1.1.0"
     },
     "require-dev": {
